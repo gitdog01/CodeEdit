@@ -1,0 +1,19 @@
+{
+  "name": "codeedit",
+  "version": "1.0.0",
+  "description": "practice TypeScript server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitdog01/CodeEdit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitdog01/CodeEdit/issues"
+  },
+  "homepage": "https://github.com/gitdog01/CodeEdit#readme"
+}
